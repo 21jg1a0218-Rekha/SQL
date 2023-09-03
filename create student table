@@ -1,0 +1,2 @@
+//to create a student table
+create table student(sid int, sname varchar(50) ,rank varchar(50));
