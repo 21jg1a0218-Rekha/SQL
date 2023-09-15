@@ -1,0 +1,2 @@
+// to write a query for ltrim
+select ltrim ('*******kanchana****','*')from dual;
