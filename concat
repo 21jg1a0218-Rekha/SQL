@@ -1,0 +1,2 @@
+// to concat the words
+select concat(empname,age)from employe_prof;
