@@ -1,0 +1,1 @@
+select lpad('empname',10,'*')from employe_prof;
