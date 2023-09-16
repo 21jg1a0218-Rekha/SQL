@@ -1,0 +1,2 @@
+// to return the length of words
+select empname,length(empname)from employe_prof;
