@@ -1,0 +1,2 @@
+//to print the round of the number
+select round(5675.0987)from dual;
