@@ -1,0 +1,2 @@
+// to perform the instr operation
+select instr('welcome to india','to') from dual;
