@@ -1,0 +1,2 @@
+// to perform the trunc operation
+select trunc(sysdate,'mm')from dual;
