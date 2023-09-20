@@ -1,0 +1,2 @@
+//to perform the init operation
+select initcap(empname)from employe_prof;
