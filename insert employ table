@@ -1,0 +1,10 @@
+// to insert a data into employ_prof table
+
+insert into employe_prof values(1,'vimala','213',23456,24,DEFAULT);
+
+insert into employe_prof values(2,'kavya','245',100000,23,'vizag');
+
+insert into employe_prof values(3,'vishnu','234',2940475,28,DEFAULT);
+
+insert into employe_prof values(4,'sasi','321',298706,26,'chennai');
+
