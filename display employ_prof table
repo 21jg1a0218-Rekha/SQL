@@ -1,0 +1,11 @@
+// to display the employ_prof table
+
+select *from employe_prof;
+
+output:
+
+SL	EMPNAME	EMPID	SALARY	AGE	LOCATION
+1	vimala	213	23456	24	hyderabad
+2	kavya	245	100000	23	vizag
+3	vishnu	234	2940475	28	hyderabad
+4	sasi	321	298706	26	chennai
