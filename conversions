@@ -1,0 +1,15 @@
+// to char function
+
+select to_char(23,'00000099')from dual;
+
+//to num function
+
+select to_number('1234.67','99999.99')from dual;
+
+//to date function
+
+select to_date('07-5-2034','dd/mm/yyyy')from dual;
+
+// to return system date
+
+select sysdate from dual;
