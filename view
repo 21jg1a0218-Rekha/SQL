@@ -1,0 +1,9 @@
+// select the column name to display the details.
+
+create view kanchana as select *from student_info where stud_name='kanchana';
+
+select *from kanchana;
+
+output:
+SLNO	STUD_NAME	BRANCH	ROLLNO	AGE	COLLEGE_NAME
+1	kanchana	EEE	218	20	GVPCEW
