@@ -1,0 +1,15 @@
+// to return next day
+
+select next_day(sysdate,'sunday')from dual;
+
+// by add months
+
+select add_months(sysdate,5)from dual;
+
+// to return last day
+
+select last_day(sysdate)from dual;
+
+// to rturn how many months in between them
+
+select months_between('23/5/2000','12/4/2023')from dual;
