@@ -1,0 +1,2 @@
+// to modify the data
+alter table employe_prof modify  empname varchar(150);
